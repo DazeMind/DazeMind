@@ -29,7 +29,7 @@
 
 Soy **Desarrollador Full Stack de nivel Mid-Level**, con más de **3 años de experiencia** creando aplicaciones transaccionales, modernizando sistemas legacy y desarrollando soluciones web escalables.
 
-Mi principal interés está en el **desarrollo frontend**, especialmente en la construcción de interfaces limpias, mantenibles y orientadas a una buena experiencia de usuario.
+Mi principal interés está en el **desarrollo Web**, especialmente en la construcción de interfaces limpias, mantenibles y orientadas a una buena experiencia de usuario.
 
 Me gusta transformar requerimientos de negocio complejos en aplicaciones simples de utilizar, combinando:
 
