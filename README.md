@@ -56,3 +56,31 @@
 
 ---
 *“Translating complex business rules into robust, scalable, and maintainable software.”*
+
+# Hi there, I'm Danny Zepeda 👋
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Mid-Level+FullStack+Developer;AI+Agent+%26+Automation+Engineer;Laravel+%7C+Vue.js+%7C+Python+%7C+GenAI" alt="Typing SVG" />
+
+  <p align="center">
+    <i>Translating complex business domain rules into resilient micro-architectures & AI-driven workflows.</i>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/danny-zepeda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:danny.darwin.dzf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Location-Chile%20%F0%9F%87%A8%F0%9F%87%B1-blue?style=for-the-badge" alt="Location" />
+  </p>
+
+</div>
+
+---
+
+### ⚡ System Status & Current Focus
+
+```yaml
+Current Role: FullStack Developer @ Aikologic
+Core Mission: Strangler Fig Modernization (Laravel 5.8 ➔ 12) + REST API Microservices
+Next-Gen AI Stack: RAG Systems, n8n Automation Workflows, Autonomous AI Agents
+Education: Engineering in Informatics @ AIEP (In Progress) | Analyst Programmer @ INACAP
