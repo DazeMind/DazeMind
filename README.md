@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/danny-zepeda">
+    <a href="https://www.linkedin.com/in/danny-zepeda-ferrada-b4a7a822a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:danny.darwin.dzf@gmail.com">
